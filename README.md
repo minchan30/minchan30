@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
+<p align="center" dir="auto">![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
 
 <p align="center" dir="auto"><a href="#"><img width="30" height="auto" src=!<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src="https://user-images.githubusercontent.com/66394117/170810350-e156bbf0-46f7-4de1-b937-3bf1edfd52cf.svg" style="max-width: 100%;></a></p></a></p>
 
