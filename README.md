@@ -15,7 +15,9 @@ Hi 👋, I'm MinChan🧑‍💻</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
+=======
+
+> > > > > > > d1a0341c1459655cd500513d08e62703ecd12c12
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchan30&show_icons=true&locale=en&layout=compact" alt="minchan30" /></p>
 
