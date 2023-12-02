@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
 
-<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src=!<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src="https://user-images.githubusercontent.com/66394117/170810350-e156bbf0-46f7-4de1-b937-3bf1edfd52cf.svg" style="max-width: 100%;"></a></p>="max-width: 100%;"></a></p>
+<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src=!<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src="https://user-images.githubusercontent.com/66394117/170810350-e156bbf0-46f7-4de1-b937-3bf1edfd52cf.svg" style="max-width: 100%;"></a></p>></a></p>
 
 <h1 align="center">Hi 👋, I'm MinChan🧑‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
