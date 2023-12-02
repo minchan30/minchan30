@@ -4,7 +4,7 @@
   <img src="https://media.istockphoto.com/id/1343687541/ko/%EB%B2%A1%ED%84%B0/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%84%9C%ED%81%B4-%ED%94%8C%EB%9E%98%EA%B7%B8-%EB%B2%A1%ED%84%B0.jpg?s=612x612&w=0&k=20&c=VYJL8Dxr3znjIgYqVQMJQvnt9OGXAKDQdDJT1-3e6GA=" width="50" height="50">
 </div>
 
-<img width="30" height="auto" src="https://user-images.githubusercontent.com/66394117/170810350-e156bbf0-46f7-4de1-b937-3bf1edfd52cf.svg" style="max-width: 100%;">
+<p align="center" dir="auto"><a href="#"><img width="30" height="auto" src="https://user-images.githubusercontent.com/66394117/170810350-e156bbf0-46f7-4de1-b937-3bf1edfd52cf.svg" style="max-width: 100%;"></a></p>
 
 <h1 align="center">Hi 👋, I'm MinChan🧑‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
