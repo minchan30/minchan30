@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
-
+<img src="[이미지URL](https://media.istockphoto.com/id/1343687541/ko/%EB%B2%A1%ED%84%B0/%ED%9D%B0%EC%83%89-%EB%B0%B0%EA%B2%BD%EC%97%90-%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%84%9C%ED%81%B4-%ED%94%8C%EB%9E%98%EA%B7%B8-%EB%B2%A1%ED%84%B0.jpg?s=612x612&w=0&k=20&c=VYJL8Dxr3znjIgYqVQMJQvnt9OGXAKDQdDJT1-3e6GA=)">
 <h1 align="center">Hi 👋, I'm MinChan🧑‍💻</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
 
