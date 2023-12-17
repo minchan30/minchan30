@@ -17,6 +17,8 @@ Hi 👋, I'm MinChan🧑‍💻</h1>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=minchan30&show_icons=true&locale=en" alt="minchan30" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minchan30&show_icons=true&locale=en&layout=compact" /></p>
+
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minchan30&show_icons=true&locale=en&layout=compact" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=minchan30&show_icons=true&locale=en" alt="minchan30" /></p>
