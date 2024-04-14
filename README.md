@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
 
-Hi 👋, I'm MinChan🧑‍💻</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
+
+Hi 👋, I'm MinChan🧑‍💻</h1>
 
 - 📫 How to reach me **goalie0901@gmail.com**
 
