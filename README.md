@@ -4,7 +4,7 @@
 
 Hi 👋, I'm MinChan🧑‍💻</h1>
 
-- 📫 How to reach me **goalie0901@gmail.com**
+📫 How to reach me **goalie0901@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
