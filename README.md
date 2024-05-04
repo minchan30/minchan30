@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
 
-- 📫 How to reach me **goalie0901@gmail.com**
+- 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞 **goalie0901@gmail.com**
 
 <h3 align="left">𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞🪄</h3>
 <p align="left">
