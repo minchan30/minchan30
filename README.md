@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=999999&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=bcbcbc&fontAlign=50&fontAlignY=40)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=35&pause=3000&color=999999&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi+there%2C+I'm+minchan;Nice+to+meet+you)](https://git.io/typing-svg)
 
