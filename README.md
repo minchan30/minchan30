@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&height=200&section=header&text=MinChan&fontSize=70&color=timeGradient&fontAlign=50&fontAlignY=40)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtldn&layout=compact)](https://github.com/delay-100/github-readme-stats) -->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kalam&size=35&pause=3000&color=F7E0A5&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi+there%2C+I'm+minchan;Nice+to+meet+you)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minchan30&label=Profile%20views&color=0e75b6&style=flat" alt="minchan30" /> </p>
