@@ -30,3 +30,5 @@
 <br>
                                                                                                                                                                                                                               
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minchan30&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minchan30&show_icons=true&theme=swift)
+
+![gra](https://github-readme-activity-graph.vercel.app/graph?username=minchan30&bg_color=F2F2F2&color=000000&line=999999&point=F78181&area=true&hide_border=true)
